@@ -6,12 +6,12 @@ Next-Generation Robotics & ROS2 System Ecosystem
 
 ### 💬 Live Community Discussions
 
-GitHub 메인 화면에서 실시간 토론 현황을 바로 확인하세요.
+DTRos2 커뮤니티의 실시간 토론 현황입니다.
 
-<!-- GitHub Discussions 실시간 현황 카드 -->
+<!-- DTRos2 Discussions 실시간 현황 카드 -->
 <p align="center">
-  <a href="https://github.com/dtros2/dtros2/discussions">
-    <img src="https://github-readme-discussions.vercel.app/api?username=dtros2&repo=dtros2.github.io&theme=dark" alt="Discussions Overview" width="100%" />
+  <a href="https://github.com/orgs/DTRos2/discussions">
+    <img src="https://github-readme-discussions.vercel.app/api?username=DTRos2&repo=.github&theme=dark" alt="DTRos2 Discussions Overview" width="100%" />
   </a>
 </p>
 
@@ -19,14 +19,14 @@ GitHub 메인 화면에서 실시간 토론 현황을 바로 확인하세요.
 
 ### 🚀 Join the Conversation
 
-아래 버튼을 눌러 원하는 주제로 바로 소통을 시작하세요!
+아래 버튼을 누르면 GitHub 메인에서 바로 원하는 토론 카테고리로 이동합니다.
 
-| 카테고리 | 설명 | 작성하기 |
+| 카테고리 | 설명 | 바로가기 |
 | :--- | :--- | :--- |
-| 💡 **Ideas** | 새로운 로보틱스/ROS2 기술 아이디어 제안 | [제안하기](https://github.com/dtros2/dtros2/discussions/new?category=ideas) |
-| ❓ **Q&A** | 코드 문제 해결 및 ROS2 질문 | [질문하기](https://github.com/dtros2/dtros2/discussions/new?category=q-a) |
-| 💬 **General** | 멤버들과 자유로운 이야기 나누기 | [참여하기](https://github.com/dtros2/dtros2/discussions/new?category=general) |
+| 💡 **Ideas** | 로보틱스 및 ROS2 관련 새로운 아이디어 제안 | [제안하기](https://github.com/orgs/DTRos2/discussions/new?category=ideas) |
+| ❓ **Q&A** | ROS2 개발 질문 및 문제 해결 | [질문하기](https://github.com/orgs/DTRos2/discussions/new?category=q-a) |
+| 💬 **General** | DTRos2 멤버들과의 자유로운 소통 | [참여하기](https://github.com/orgs/DTRos2/discussions/new?category=general) |
 
 ---
 
-🌐 **[DTRos2 3D Interactive Lab 웹사이트 바로가기](https://dtros2.github.io)**
+🌐 **[DTRos2 3D Interactive Lab 공식 웹사이트](https://dtros2.github.io)**

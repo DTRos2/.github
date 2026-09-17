@@ -10,7 +10,7 @@ DTRos2 커뮤니티의 실시간 토론 현황입니다.
 
 <!-- DTRos2 Discussions 실시간 현황 카드 -->
 <p align="center">
-  <a href="[https://github.com/dtros2/dtros2.github.io/discussions](https://dtros2.github.io/#giscus)">
+  <a href="https://dtros2.github.io/#giscus">
     <img src="https://github-readme-discussions.vercel.app/api?username=DTRos2&repo=.github&theme=dark" alt="DTRos2 Discussions Overview" width="100%" />
   </a>
 </p>
@@ -23,7 +23,7 @@ DTRos2 커뮤니티의 실시간 토론 현황입니다.
 
 | 카테고리 | 설명 | 바로가기 |
 | :--- | :--- | :--- |
-| 💬 **General** | DTRos2 멤버들과의 자유로운 소통 | [참여하기]([https://github.com/dtros2/dtros2.github.io/discussions/new?category=general](https://dtros2.github.io/#giscus)) |
+| 💬 **General** | DTRos2 멤버들과의 자유로운 소통 | [참여하기]((https://dtros2.github.io/#giscus)) |
 
 ---
 
